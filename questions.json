@@ -1,0 +1,322 @@
+{
+    "Kerajaan Sriwijaya dan Majapahit di Indonesia": {
+        "questions": [
+            {
+                "question": "Sumpah Palapa yang terkenal diucapkan oleh Gajah Mada, patih dari kerajaan...",
+                "options": ["Singasari", "Kediri", "Majapahit", "Demak"],
+                "answer": "Majapahit",
+                "explanation": "Gajah Mada bersumpah tidak akan menikmati kesenangan duniawi sebelum berhasil menyatukan Nusantara di bawah kekuasaan Majapahit."
+            },
+            {
+                "question": "Kerajaan maritim terbesar yang berpusat di Sumatera dan menguasai perdagangan di Selat Malaka adalah...",
+                "options": ["Tarumanegara", "Sriwijaya", "Kutai", "Mataram Kuno"],
+                "answer": "Sriwijaya",
+                "explanation": "Sriwijaya adalah kerajaan Buddha yang terkenal sebagai pusat perdagangan dan pendidikan agama Buddha di Asia Tenggara."
+            },
+            {
+                "question": "Candi Buddha terbesar di dunia yang dibangun pada masa Dinasti Syailendra adalah...",
+                "options": ["Candi Prambanan", "Candi Sewu", "Candi Kalasan", "Candi Borobudur"],
+                "answer": "Candi Borobudur",
+                "explanation": "Candi Borobudur adalah monumen Buddha mahakarya yang menjadi bukti kebesaran peradaban masa lalu di Jawa."
+            },
+            {
+                "question": "Siapakah raja pertama Kerajaan Kutai Martadipura?",
+                "options": ["Aswawarman", "Purnawarman", "Mulawarman", "Kudungga"],
+                "answer": "Kudungga",
+                "explanation": "Kudungga adalah raja pendiri Kerajaan Kutai. Namanya menunjukkan bahwa ia adalah seorang pemimpin lokal sebelum pengaruh Hindu masuk."
+            },
+            {
+                "question": "Prasasti Yupa adalah peninggalan dari kerajaan...",
+                "options": ["Tarumanegara", "Kutai", "Sriwijaya", "Majapahit"],
+                "answer": "Kutai",
+                "explanation": "Prasasti Yupa merupakan tugu batu yang berisi tulisan tentang upacara kurban dan silsilah raja-raja Kutai."
+            },
+            {
+                "question": "Kitab Negarakertagama yang menceritakan kebesaran Majapahit ditulis oleh...",
+                "options": ["Mpu Prapanca", "Mpu Tantular", "Mpu Gandring", "Mpu Panuluh"],
+                "answer": "Mpu Prapanca",
+                "explanation": "Mpu Prapanca menulis Kakawin Negarakertagama pada masa pemerintahan Hayam Wuruk, yang menjadi sumber utama sejarah Majapahit."
+            },
+            {
+                "question": "Kerajaan Majapahit mencapai puncak kejayaannya pada masa pemerintahan...",
+                "options": ["Raden Wijaya", "Jayanegara", "Hayam Wuruk", "Tribhuwana Wijayatunggadewi"],
+                "answer": "Hayam Wuruk",
+                "explanation": "Didampingi oleh Patih Gajah Mada, Hayam Wuruk berhasil membawa Majapahit ke puncak kejayaan dengan wilayah kekuasaan yang sangat luas."
+            },
+            {
+                "question": "Candi Prambanan adalah kompleks candi Hindu terbesar di Indonesia yang didedikasikan untuk Trimurti, yaitu...",
+                "options": ["Brahma, Wisnu, Siwa", "Agni, Indra, Surya", "Ganesha, Durga, Agastya", "Dewa, Asura, Manusia"],
+                "answer": "Brahma, Wisnu, Siwa",
+                "explanation": "Tiga candi utama di Prambanan dipersembahkan untuk Brahma (Pencipta), Wisnu (Pemelihara), dan Siwa (Pemusnah)."
+            },
+            {
+                "question": "Istilah 'Bhinneka Tunggal Ika' yang menjadi semboyan negara Indonesia berasal dari kitab...",
+                "options": ["Arjunawiwaha", "Pararaton", "Sutasoma", "Bharatayuddha"],
+                "answer": "Sutasoma",
+                "explanation": "Frasa 'Bhinneka Tunggal Ika Tan Hana Dharma Mangrwa' ditulis oleh Mpu Tantular dalam Kitab Sutasoma pada zaman Majapahit."
+            },
+            {
+                "question": "Kerajaan Hindu-Buddha pertama di Jawa Barat yang meninggalkan prasasti Ciaruteun adalah...",
+                "options": ["Kalingga", "Sunda Galuh", "Tarumanegara", "Mataram Kuno"],
+                "answer": "Tarumanegara",
+                "explanation": "Prasasti Ciaruteun di dekat Bogor berisi tapak kaki Raja Purnawarman dari Kerajaan Tarumanegara."
+            }
+        ]
+    },
+    "Kerajaan Islam di Nusantara": {
+        "questions": [
+            {
+                "question": "Kerajaan Islam pertama di Indonesia adalah...",
+                "options": ["Demak", "Aceh", "Samudera Pasai", "Ternate"],
+                "answer": "Samudera Pasai",
+                "explanation": "Samudera Pasai yang terletak di pesisir utara Sumatera adalah kerajaan Islam pertama di Nusantara, berdiri sekitar abad ke-13."
+            },
+            {
+                "question": "Siapakah wali songo yang dikenal sebagai Sunan Gunung Jati dan menyebarkan Islam di Jawa Barat?",
+                "options": ["Sunan Kalijaga", "Sunan Ampel", "Syarif Hidayatullah", "Sunan Bonang"],
+                "answer": "Syarif Hidayatullah",
+                "explanation": "Syarif Hidayatullah atau Sunan Gunung Jati adalah pendiri Kesultanan Cirebon dan Banten."
+            },
+            {
+                "question": "Masjid Agung Demak yang terkenal dengan 'saka tatal'-nya didirikan oleh...",
+                "options": ["Raden Patah", "Pati Unus", "Sultan Trenggono", "Wali Songo"],
+                "answer": "Wali Songo",
+                "explanation": "Masjid Agung Demak dibangun oleh Wali Songo di bawah pimpinan Sunan Kalijaga pada masa pemerintahan Raden Patah."
+            },
+            {
+                "question": "Kesultanan Aceh mencapai puncak kejayaan dan dikenal sebagai 'Serambi Mekkah' pada masa pemerintahan...",
+                "options": ["Sultan Ali Mughayat Syah", "Sultan Iskandar Muda", "Sultan Iskandar Thani", "Sultanah Safiatuddin"],
+                "answer": "Sultan Iskandar Muda",
+                "explanation": "Di bawah Sultan Iskandar Muda, Aceh menjadi pusat perdagangan dan kekuatan militer yang disegani di Selat Malaka."
+            },
+            {
+                "question": "Kerajaan Gowa-Tallo di Makassar terkenal dengan rajanya yang dijuluki 'Ayam Jantan dari Timur', yaitu...",
+                "options": ["Sultan Hasanuddin", "Sultan Agung", "Sultan Baabullah", "Pangeran Diponegoro"],
+                "answer": "Sultan Hasanuddin",
+                "explanation": "Sultan Hasanuddin gigih melawan monopoli perdagangan VOC, sehingga Belanda menjulukinya 'De Haantjes van het Oosten'."
+            },
+            {
+                "question": "Kerajaan Ternate dan Tidore di Maluku merupakan penghasil utama dari komoditas...",
+                "options": ["Kopi", "Lada", "Cengkeh dan Pala", "Gula"],
+                "answer": "Cengkeh dan Pala",
+                "explanation": "Kepulauan Maluku dijuluki 'Spice Islands' oleh bangsa Eropa karena merupakan satu-satunya sumber rempah-rempah berharga seperti cengkeh dan pala."
+            },
+            {
+                "question": "Penyebaran Islam di Jawa sering menggunakan media seni tradisional seperti wayang kulit. Siapakah wali yang terkenal menggunakan metode ini?",
+                "options": ["Sunan Gresik", "Sunan Muria", "Sunan Kudus", "Sunan Kalijaga"],
+                "answer": "Sunan Kalijaga",
+                "explanation": "Sunan Kalijaga adalah seorang budayawan yang berdakwah melalui seni dan budaya lokal, termasuk gamelan dan wayang."
+            },
+            {
+                "question": "Perjanjian Bongaya adalah perjanjian antara VOC dengan kerajaan...",
+                "options": ["Mataram Islam", "Banten", "Gowa-Tallo", "Ternate"],
+                "answer": "Gowa-Tallo",
+                "explanation": "Perjanjian Bongaya pada tahun 1667 sangat merugikan Kerajaan Gowa-Tallo dan memberikan VOC hak monopoli perdagangan."
+            },
+            {
+                "question": "Kerajaan Mataram Islam mencapai puncak kejayaannya dan pernah menyerang VOC di Batavia pada masa pemerintahan...",
+                "options": ["Panembahan Senopati", "Sultan Agung Hanyokrokusumo", "Amangkurat I", "Pakubuwana II"],
+                "answer": "Sultan Agung Hanyokrokusumo",
+                "explanation": "Sultan Agung adalah raja terbesar Mataram yang bercita-cita mengusir VOC dari Jawa, meskipun dua kali serangannya ke Batavia gagal."
+            },
+            {
+                "question": "Fatahillah berhasil merebut Sunda Kelapa dari Portugis dan mengganti namanya menjadi Jayakarta. Peristiwa ini terjadi pada tahun...",
+                "options": ["1511", "1521", "1527", "1570"],
+                "answer": "1527",
+                "explanation": "Penaklukan Sunda Kelapa pada 22 Juni 1527 kemudian diperingati sebagai hari jadi kota Jakarta."
+            }
+        ]
+    },
+    "Kolonialisme dan Perlawanan": {
+        "questions": [
+            {
+                "question": "VOC (Vereenigde Oostindische Compagnie) adalah kongsi dagang milik negara...",
+                "options": ["Inggris", "Portugis", "Spanyol", "Belanda"],
+                "answer": "Belanda",
+                "explanation": "VOC didirikan pada tahun 1602 untuk memonopoli perdagangan rempah-rempah di Asia dan menjadi kekuatan kolonial di Nusantara."
+            },
+            {
+                "question": "Sistem tanam paksa (Cultuurstelsel) yang menyengsarakan rakyat Indonesia diterapkan oleh Gubernur Jenderal...",
+                "options": ["Herman Willem Daendels", "Thomas Stamford Raffles", "Van den Bosch", "J.P. Coen"],
+                "answer": "Van den Bosch",
+                "explanation": "Pada tahun 1830, Van den Bosch menerapkan Cultuurstelsel yang mewajibkan petani menanam tanaman ekspor untuk pemerintah kolonial."
+            },
+            {
+                "question": "Perang Diponegoro atau Perang Jawa (1825-1830) dipicu oleh...",
+                "options": ["Pemasangan patok jalan di atas makam leluhur Pangeran Diponegoro", "Kenaikan pajak yang tinggi", "Campur tangan Belanda dalam urusan keraton", "Semua jawaban benar"],
+                "answer": "Semua jawaban benar",
+                "explanation": "Perang besar ini dipicu oleh akumulasi kekecewaan Pangeran Diponegoro terhadap perilaku Belanda yang sewenang-wenang."
+            },
+            {
+                "question": "Pahlawan dari Maluku yang memimpin perlawanan melawan Belanda dan dihukum gantung di Ambon adalah...",
+                "options": ["Sultan Hasanuddin", "Pattimura (Thomas Matulessy)", "Tuanku Imam Bonjol", "Pangeran Antasari"],
+                "answer": "Pattimura (Thomas Matulessy)",
+                "explanation": "Kapitan Pattimura memimpin rakyat Maluku merebut Benteng Duurstede di Saparua pada tahun 1817."
+            },
+            {
+                "question": "Perang Padri di Sumatera Barat pada awalnya adalah perang saudara antara Kaum Adat dan Kaum Padri, sebelum akhirnya Belanda ikut campur. Tokoh utama Kaum Padri adalah...",
+                "options": ["Teuku Umar", "Sisingamangaraja XII", "Tuanku Imam Bonjol", "Cut Nyak Dien"],
+                "answer": "Tuanku Imam Bonjol",
+                "explanation": "Tuanku Imam Bonjol awalnya memimpin Kaum Padri (ulama) melawan Kaum Adat, namun kemudian menyatukan keduanya untuk melawan Belanda."
+            },
+            {
+                "question": "Politik Etis atau 'Politik Balas Budi' yang diterapkan Belanda pada awal abad ke-20 terdiri dari tiga program, yaitu...",
+                "options": ["Edukasi, Irigasi, Transmigrasi", "Monopoli, Devide et Impera, Ekstirpasi", "Kerja Rodi, Tanam Paksa, Pajak", "Liberalisme, Kapitalisme, Imperialisme"],
+                "answer": "Edukasi, Irigasi, Transmigrasi",
+                "explanation": "Meskipun bertujuan untuk 'membalas budi', pelaksanaan Politik Etis banyak diselewengkan untuk kepentingan pemerintah kolonial."
+            },
+            {
+                "question": "Siapakah pahlawan wanita dari Aceh yang memimpin perang gerilya melawan Belanda setelah suaminya, Teuku Umar, gugur?",
+                "options": ["Cut Nyak Meutia", "Rasuna Said", "Fatmawati", "Cut Nyak Dien"],
+                "answer": "Cut Nyak Dien",
+                "explanation": "Cut Nyak Dien adalah simbol perlawanan gigih rakyat Aceh yang terus berjuang di hutan belantara meski dalam kondisi sulit."
+            },
+            {
+                "question": "Gubernur Jenderal yang dikenal kejam dan membangun Jalan Raya Pos dari Anyer hingga Panarukan dengan sistem kerja rodi adalah...",
+                "options": ["Van den Bosch", "J.P. Coen", "Herman Willem Daendels", "Thomas Stamford Raffles"],
+                "answer": "Herman Willem Daendels",
+                "explanation": "Pembangunan jalan ini memakan banyak korban jiwa dari kalangan pribumi yang dipaksa bekerja tanpa upah."
+            },
+            {
+                "question": "Buku 'Max Havelaar' yang mengkritik keras sistem tanam paksa di Indonesia ditulis oleh...",
+                "options": ["Van Deventer", "Snouck Hurgronje", "Eduard Douwes Dekker (Multatuli)", "Baron van Hoevell"],
+                "answer": "Eduard Douwes Dekker (Multatuli)",
+                "explanation": "Novel ini membuka mata publik Eropa tentang kekejaman sistem kolonial Belanda di Hindia Belanda."
+            },
+            {
+                "question": "Perang Banjar di Kalimantan Selatan dipimpin oleh...",
+                "options": ["Pangeran Diponegoro", "Pangeran Antasari", "Sultan Hasanuddin", "Sisingamangaraja XII"],
+                "answer": "Pangeran Antasari",
+                "explanation": "Pangeran Antasari memimpin perlawanan rakyat Banjar melawan Belanda yang mencoba menguasai kesultanan."
+            }
+        ]
+    },
+    "Pergerakan Nasional Indonesia": {
+        "questions": [
+            {
+                "question": "Organisasi pergerakan nasional pertama di Indonesia yang berdiri pada 20 Mei 1908 adalah...",
+                "options": ["Sarekat Islam", "Indische Partij", "Boedi Oetomo", "Muhammadiyah"],
+                "answer": "Boedi Oetomo",
+                "explanation": "Berdirinya Boedi Oetomo dianggap sebagai titik awal pergerakan nasional, dan tanggalnya diperingati sebagai Hari Kebangkitan Nasional."
+            },
+            {
+                "question": "Siapakah 'Tiga Serangkai' pendiri Indische Partij yang menyuarakan nasionalisme dan kemerdekaan penuh?",
+                "options": ["Soekarno, Hatta, Sjahrir", "Douwes Dekker, Tjipto Mangoenkoesoemo, Soewardi Soerjaningrat", "Wahidin Soedirohoesodo, Soetomo, Goenawan", "H.O.S. Tjokroaminoto, Agus Salim, Abdoel Moeis"],
+                "answer": "Douwes Dekker, Tjipto Mangoenkoesoemo, Soewardi Soerjaningrat",
+                "explanation": "Mereka dikenal sangat radikal dan berani menuntut kemerdekaan, dengan Soewardi (Ki Hadjar Dewantara) menulis 'Als ik een Nederlander was'."
+            },
+            {
+                "question": "Sumpah Pemuda yang diikrarkan pada 28 Oktober 1928 merupakan hasil dari...",
+                "options": ["Kongres Pemuda I", "Kongres Pemuda II", "Kongres Perempuan I", "Rapat Boedi Oetomo"],
+                "answer": "Kongres Pemuda II",
+                "explanation": "Kongres ini menyatukan berbagai organisasi pemuda daerah dan menghasilkan ikrar satu tanah air, satu bangsa, dan satu bahasa."
+            },
+            {
+                "question": "Lagu kebangsaan 'Indonesia Raya' pertama kali diperdengarkan secara instrumental pada saat peristiwa...",
+                "options": ["Proklamasi Kemerdekaan", "Berdirinya Boedi Oetomo", "Sumpah Pemuda", "Sidang BPUPKI"],
+                "answer": "Sumpah Pemuda",
+                "explanation": "W.R. Supratman memperdengarkan lagu ciptaannya dengan biola pada penutupan Kongres Pemuda II."
+            },
+            {
+                "question": "Organisasi Sarekat Islam pada awalnya adalah Sarekat Dagang Islam yang bertujuan untuk...",
+                "options": ["Melawan penjajah Belanda secara fisik", "Mendirikan partai politik", "Melindungi pedagang lokal dari monopoli pedagang Tionghoa dan asing", "Mendirikan sekolah-sekolah modern"],
+                "answer": "Melindungi pedagang lokal dari monopoli pedagang Tionghoa dan asing",
+                "explanation": "Awalnya berfokus pada ekonomi, Sarekat Islam di bawah H.O.S. Tjokroaminoto berkembang pesat menjadi organisasi politik massa."
+            },
+            {
+                "question": "Tokoh pendidikan yang mendirikan Taman Siswa dengan semboyan 'Ing ngarso sung tulodo, ing madyo mangun karso, tut wuri handayani' adalah...",
+                "options": ["Dr. Soetomo", "Mohammad Sjafei", "Dewi Sartika", "Ki Hadjar Dewantara"],
+                "answer": "Ki Hadjar Dewantara",
+                "explanation": "Ki Hadjar Dewantara (Soewardi Soerjaningrat) mendirikan Taman Siswa sebagai bentuk perlawanan di bidang pendidikan."
+            },
+            {
+                "question": "Pada masa pendudukan Jepang, semua organisasi pergerakan nasional dibubarkan dan diganti dengan organisasi bentukan Jepang, salah satunya adalah...",
+                "options": ["PUTERA (Pusat Tenaga Rakyat)", "Volksraad", "GAPI", "PNI"],
+                "answer": "PUTERA (Pusat Tenaga Rakyat)",
+                "explanation": "Jepang membentuk PUTERA yang dipimpin Empat Serangkai (Soekarno, Hatta, Ki Hadjar Dewantara, K.H. Mas Mansyur) untuk menarik simpati rakyat."
+            },
+            {
+                "question": "Istilah 'Indonesia' pertama kali diperkenalkan sebagai istilah ilmiah oleh...",
+                "options": ["Mohammad Yamin", "J.R. Logan", "Soekarno", "H.O.S. Tjokroaminoto"],
+                "answer": "J.R. Logan",
+                "explanation": "James Richardson Logan, seorang etnolog Skotlandia, adalah orang pertama yang menggunakan nama 'Indonesia' dalam jurnal ilmiah pada tahun 1850."
+            },
+            {
+                "question": "Organisasi yang didirikan oleh K.H. Ahmad Dahlan di Yogyakarta pada tahun 1912 yang bergerak di bidang sosial dan pendidikan Islam adalah...",
+                "options": ["Nahdlatul Ulama (NU)", "Persatuan Islam (PERSIS)", "Muhammadiyah", "Jamiat Kheir"],
+                "answer": "Muhammadiyah",
+                "explanation": "Muhammadiyah berfokus pada pemurnian ajaran Islam dan modernisasi pendidikan melalui pendirian sekolah, rumah sakit, dan panti asuhan."
+            },
+            {
+                "question": "Badan yang dibentuk Jepang untuk menyelidiki usaha-usaha persiapan kemerdekaan Indonesia adalah...",
+                "options": ["PPKI", "PETA", "Heiho", "BPUPKI"],
+                "answer": "BPUPKI",
+                "explanation": "BPUPKI (Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia) atau Dokuritsu Junbi Cosakai mengadakan sidang untuk merumuskan dasar negara."
+            }
+        ]
+    },
+    "Tokoh dan peristiwa sekitar proklamasi kemerdekaan Indonesia 1945": {
+        "questions": [
+            {
+                "question": "Siapakah tokoh yang mengetik naskah proklamasi kemerdekaan Indonesia?",
+                "options": ["Soekarno", "Mohammad Hatta", "Sayuti Melik", "Ahmad Soebardjo"],
+                "answer": "Sayuti Melik",
+                "explanation": "Sayuti Melik adalah tokoh yang mengetik naskah proklamasi setelah disetujui, dengan beberapa perubahan dari tulisan tangan Soekarno."
+            },
+            {
+                "question": "Di manakah naskah proklamasi kemerdekaan Indonesia dibacakan?",
+                "options": ["Di Lapangan Ikada", "Di rumah Laksamana Maeda", "Di Jalan Pegangsaan Timur No. 56", "Di Gedung Sate"],
+                "answer": "Di Jalan Pegangsaan Timur No. 56",
+                "explanation": "Proklamasi dibacakan di kediaman Soekarno, Jalan Pegangsaan Timur No. 56, Jakarta."
+            },
+            {
+                "question": "Peristiwa penculikan Soekarno dan Hatta ke Rengasdengklok dilakukan oleh golongan...",
+                "options": ["Golongan Tua", "Golongan Muda", "Tentara Jepang", "Pasukan Sekutu"],
+                "answer": "Golongan Muda",
+                "explanation": "Golongan muda menculik Soekarno-Hatta untuk mendesak agar proklamasi kemerdekaan segera dilaksanakan tanpa pengaruh Jepang."
+            },
+            {
+                "question": "Siapakah yang menjahit bendera pusaka Merah Putih?",
+                "options": ["Inggit Garnasih", "Fatmawati", "Kartini", "Cut Nyak Dien"],
+                "answer": "Fatmawati",
+                "explanation": "Ibu Fatmawati, istri dari Presiden Soekarno, adalah sosok yang menjahit bendera pusaka yang dikibarkan saat proklamasi."
+            },
+            {
+                "question": "Naskah proklamasi dirumuskan di rumah seorang perwira tinggi Angkatan Laut Jepang yang bersimpati pada perjuangan Indonesia, yaitu...",
+                "options": ["Jenderal Terauchi", "Laksamana Maeda", "Jenderal Nishimura", "Kapten Nomura"],
+                "answer": "Laksamana Maeda",
+                "explanation": "Rumah Laksamana Tadashi Maeda dianggap aman dari pengawasan Angkatan Darat Jepang, sehingga dipilih sebagai tempat perumusan naskah."
+            },
+            {
+                "question": "Badan yang dibentuk setelah BPUPKI dibubarkan untuk mempersiapkan pemindahan kekuasaan dari Jepang adalah...",
+                "options": ["KNIP", "PETA", "PPKI", "BKR"],
+                "answer": "PPKI",
+                "explanation": "PPKI (Panitia Persiapan Kemerdekaan Indonesia) atau Dokuritsu Junbi Inkai bertugas melanjutkan pekerjaan BPUPKI dan mengesahkan UUD 1945."
+            },
+            {
+                "question": "Siapa saja tiga tokoh yang menandatangani naskah proklamasi atas nama bangsa Indonesia?",
+                "options": ["Soekarno, Hatta, Sjahrir", "Soekarno dan Hatta", "Sayuti Melik, Soekarno, Hatta", "Semua anggota PPKI"],
+                "answer": "Soekarno dan Hatta",
+                "explanation": "Atas usul Sukarni, naskah proklamasi cukup ditandatangani oleh Soekarno dan Mohammad Hatta sebagai wakil bangsa Indonesia."
+            },
+            {
+                "question": "Dasar negara Pancasila pertama kali diusulkan oleh Soekarno pada sidang BPUPKI tanggal...",
+                "options": ["29 Mei 1945", "31 Mei 1945", "1 Juni 1945", "17 Agustus 1945"],
+                "answer": "1 Juni 1945",
+                "explanation": "Pidato Soekarno pada 1 Juni 1945 mengusulkan lima dasar negara yang ia sebut Pancasila, tanggal ini kini diperingati sebagai Hari Lahir Pancasila."
+            },
+            {
+                "question": "Setelah proklamasi, berita kemerdekaan Indonesia disebarluaskan ke seluruh dunia terutama melalui...",
+                "options": ["Surat kabar", "Siaran radio Hoso Kyoku (RRI)", "Dari mulut ke mulut", "Telegram"],
+                "answer": "Siaran radio Hoso Kyoku (RRI)",
+                "explanation": "Para pemuda pejuang di radio berhasil menyiarkan berita proklamasi secara singkat sebelum dihentikan oleh tentara Jepang."
+            },
+            {
+                "question": "Sidang PPKI pada tanggal 18 Agustus 1945 menghasilkan tiga keputusan penting, salah satunya adalah...",
+                "options": ["Membentuk tentara nasional", "Menetapkan bendera dan lagu kebangsaan", "Memilih Soekarno sebagai Presiden dan Hatta sebagai Wakil Presiden", "Menetapkan ibu kota negara"],
+                "answer": "Memilih Soekarno sebagai Presiden dan Hatta sebagai Wakil Presiden",
+                "explanation": "Selain itu, sidang juga mengesahkan UUD 1945 dan membentuk Komite Nasional Indonesia Pusat (KNIP) untuk membantu presiden."
+            }
+        ]
+    }
+}

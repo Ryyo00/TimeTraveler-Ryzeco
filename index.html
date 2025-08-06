@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Traveler: Jelajah Sejarah Nusantara</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FITUR BARU: Menambahkan library Tone.js untuk efek suara -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.7.77/Tone.js"></script>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="min-h-screen flex items-center justify-center p-4">
+
+    <audio id="bg-music" loop>
+    <source src="cinematic-music-documentary-history-background-intro-theme-261144.mp3" type="audio/mpeg">
+</audio>
+
+    <div id="game-container" class="w-full max-w-4xl mx-auto">
+        <!-- Start Screen -->
+        <div id="start-screen" class="text-center card p-8 screen">
+            <h1 class="title-font text-5xl md:text-7xl text-cyan-300 drop-shadow-lg">Time Traveler</h1>
+            <h2 class="text-2xl md:text-3xl text-cyan-400 mt-2 mb-8">Jelajah Sejarah Nusantara</h2>
+            <img src="https://placehold.co/600x300/1a1a2e/90e0ef?text=Portal+Waktu+Terbuka" alt="Ilustrasi Mesin Waktu" class="mx-auto rounded-lg shadow-xl mb-8 border-2 border-cyan-500/50">
+            <button id="start-btn" class="btn-primary text-2xl font-bold py-4 px-12 rounded-lg">Mulai Petualangan</button>
+        </div>
+
+        <!-- Game Screen -->
+        <div id="game-screen" class="hidden">
+            <!-- FITUR BARU: Progress Bar -->
+            <div id="progress-bar" class="w-full bg-gray-700 rounded-full h-2.5 mb-4">
+                <div id="progress-bar-fill" class="bg-cyan-400 h-2.5 rounded-full" style="width: 0%"></div>
+            </div>
+
+            <header class="flex justify-between items-center mb-4 p-4 card rounded-lg">
+                <h2 id="level-title" class="title-font text-2xl md:text-3xl text-cyan-300"></h2>
+                <div class="text-right">
+                    <p class="text-cyan-200 font-bold text-xl">Skor: <span id="score">0</span></p>
+                    <button id="music-toggle" class="mt-1 text-sm text-cyan-400 hover:text-cyan-200">🎵 Musik: Mati</button>
+                </div>
+            </header>
+
+            <main id="level-content" class="card p-6 rounded-lg min-h-[50vh] flex flex-col justify-center">
+                <!-- Konten level dinamis akan dimuat di sini -->
+            </main>
+
+            <footer id="level-feedback" class="mt-4 text-center">
+                <!-- Feedback dan tombol navigasi akan muncul di sini -->
+            </footer>
+        </div>
+
+        <!-- End Screen -->
+        <div id="end-screen" class="hidden text-center card p-8">
+            <h1 class="title-font text-4xl text-cyan-300">Petualangan Selesai!</h1>
+            <img src="https://placehold.co/400x200/00b4d8/FFFFFF?text=Misi+Berhasil!" alt="Selamat" class="mx-auto rounded-lg shadow-lg my-6">
+            <p class="text-xl text-cyan-200 mb-2">Skor Akhir Kamu:</p>
+            <p id="final-score" class="text-5xl font-bold text-white mb-8"></p>
+            <button id="restart-btn" class="btn-primary text-xl font-bold py-3 px-10 rounded-lg">Jelajahi Lagi</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
